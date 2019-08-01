@@ -1,1 +1,0 @@
-# Cluster---IsGreenForPlacement.zip
